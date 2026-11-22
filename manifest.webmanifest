@@ -1,0 +1,17 @@
+{
+  "id": "./",
+  "name": "#コンパス ランダムデッキ抽選器",
+  "short_name": "コンパス抽選",
+  "description": "キャラクター1人と所持カード4枚をランダム抽選",
+  "lang": "ja",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#10131a",
+  "theme_color": "#10131a",
+  "icons": [
+    {"src":"./icons/icon-192.png","sizes":"192x192","type":"image/png","purpose":"any"},
+    {"src":"./icons/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any"}
+  ]
+}
